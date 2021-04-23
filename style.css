@@ -1,7 +1,7 @@
 body{
   height: 100vh;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  background: conic-gradient(at 125% 50%, #b78cf7, #ff7c94, #ffcf0d, #ff7c94, #b78cf7);
+  background: linear-gradient(to right, #f95ce2, #edca11);
 }
 
 .container{
